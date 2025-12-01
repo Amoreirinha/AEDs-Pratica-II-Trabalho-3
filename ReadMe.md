@@ -201,14 +201,4 @@ Instituição: **UNIFAL - Universidade Federal de Alfenas**
 
 ---
 
-## 📚 Referências Bibliográficas
-
-- CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. **Introduction to Algorithms.** 3. ed. MIT Press, 2009.  
-- KNUTH, D. E. **The Art of Computer Programming, Volume 3: Sorting and Searching.** Addison-Wesley, 1998.  
-- TANENBAUM, A. S.; BOS, H. **Modern Operating Systems.** 4. ed. Pearson, 2014.  
-- KING, K. N. **C Programming: A Modern Approach.** 2. ed. W. W. Norton & Company, 2008.  
-- Documentação oficial do GNU C Library (glibc)
-
----
-
 🧩 *Projeto desenvolvido para fins didáticos, com foco em implementação de algoritmos de ordenação, manipulação de estruturas de dados e análise de desempenho computacional.*
